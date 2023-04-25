@@ -1,5 +1,7 @@
 ## Dialogs
 
+Dialogs are a type of user interface component in Android that display information, prompt user for input, or confirm user actions. They can be used to provide additional context or options to the user, or to capture user input in a structured manner. Dialogs can be customized with different layouts and styles to match the look and feel of the app.
+
 Creating Dialogs:
 
 To create dialogs in Android, follow these steps:
