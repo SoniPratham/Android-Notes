@@ -6,16 +6,16 @@ This repository contains basic Android concepts and code snippets to help beginn
 
 The repository covers the following topics:
 
-- [Basic View](./Basic Views.md)
+- [Basic View](./Basic%20Views.md)
 - [Layouts](./Layouts.md)
-- [AdapterView Classes](./AdapterView Class.md)
-- [Intent Object](./Intent Object.md)
+- [AdapterView Classes](./AdapterView%20Class.md)
+- [Intent Object](./Intent%20Object.md)
 - [Fragments](./Fragment.md)
 - [Menus](./Menu.md)
 - [Notifications](./Notifications.md)
-- [FireBase: Login App](./FireBase: Login App.md)
+- [FireBase: Login App](./FireBase:%20Login%20App.md)
 - [SqlLite Database](./SqlLite.md)
-- [JSON-based Web Services](./JSON based Web Services.md)
+- [JSON-based Web Services](./JSON%20based%20Web%20Services.md)
 
 Each topic has a separate directory with code snippets, explanations, and examples.
 
