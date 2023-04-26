@@ -1,6 +1,6 @@
-## Calculator App
+# Calculator App
 
-# XML: 
+## XML: 
 
 A sample XML code for the layout of the calculator app:
 
@@ -85,7 +85,7 @@ A sample XML code for the layout of the calculator app:
 
 In this code, we have defined a `RelativeLayout` as the parent layout, which contains two `EditText` fields for entering two numbers, four `Button` widgets for performing addition, subtraction, multiplication, and division operations, and a `TextView` widget for displaying the result.
 
-# JAVA Code:
+$# JAVA Code:
 
 A sample code for a simple calculator app in Android:
 
